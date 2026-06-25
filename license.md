@@ -9,7 +9,7 @@ The **🏈 Retro Bowl Updated** is the complete PC version of the beloved mobile
 
 <div align="center">
 
-[![Download Retro Bowl Updated](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/retro-bowl-updated)
+[![Download Retro Bowl Updated](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/retro-bowl-updated)
 
 </div>
 
@@ -91,7 +91,7 @@ The original Retro Bowl is mobile-only with limited features unless you pay. You
 3. **🖱️ Run as Administrator** — `RetroBowl.exe`
 4. **🚀 Launch the game**
 
-[![Download Retro Bowl Updated](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/retro-bowl-updated)
+[![Download Retro Bowl Updated](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/retro-bowl-updated)
 
 ### Main Menu
 
@@ -188,7 +188,7 @@ Classic football gaming on PC. **Retro Bowl Updated** gives you full team manage
 
 <div align="center">
 
-[![Download Retro Bowl Updated](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/retro-bowl-updated)
+[![Download Retro Bowl Updated](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/retro-bowl-updated)
 
 **Version 3.0.0** — Classic football game. Free forever.
 
